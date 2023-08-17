@@ -1,0 +1,1 @@
+THe two link manipulator is now tracking a given sinosodial path using a PD controller, and we can track the torque and energy of the links. ODE was used to solve the problem.
