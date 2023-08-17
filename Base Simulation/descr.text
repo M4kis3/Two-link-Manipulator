@@ -1,0 +1,1 @@
+In this folder there is the base simulation of the two link manipulator where the manipulator operates in real world conditions with mass, gravity, inertia and is given some torques but is not tracking a path.
